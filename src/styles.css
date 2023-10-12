@@ -15,6 +15,10 @@
     font-family: 'boo';
     src: url('./soso.otf');
   }
+  @font-face {
+    font-family: 'wiila';
+    src: url('./nmmm.otf');
+  }
 *
 {
     padding: 0;

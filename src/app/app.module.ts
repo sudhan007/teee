@@ -19,7 +19,7 @@ import { FooterComponent } from './footer/footer.component';
     ImagesComponent,
     Information1Component,
     Information2Component,
-    FooterComponent
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
