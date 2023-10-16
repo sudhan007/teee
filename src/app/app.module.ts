@@ -9,6 +9,7 @@ import { ImagesComponent } from './images/images.component';
 import { Information1Component } from './information1/information1.component';
 import { Information2Component } from './information2/information2.component';
 import { FooterComponent } from './footer/footer.component';
+import { AddressComponent } from './address/address.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { FooterComponent } from './footer/footer.component';
     Information1Component,
     Information2Component,
     FooterComponent,
+    AddressComponent,
   ],
   imports: [
     BrowserModule,
